@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nano Medical Clinic - ECPv4.9.14//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nano Medical Clinic
+X-ORIGINAL-URL:https://nanomedicalclinic.com/?lang=uz
+X-WR-CALDESC:Events for Nano Medical Clinic
+END:VCALENDAR
